@@ -1,0 +1,1245 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-08-19 19:01+0530\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
+"&& n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5;\n"
+
+#: .\pcdotapp\models.py:17 .\pcdotapp\models.py:24 .\pcdotapp\models.py:178
+msgid "name"
+msgstr ""
+
+#: .\pcdotapp\templates\about_us.html:8 .\pcdotapp\templates\about_us.html:229
+#: .\pcdotapp\templates\about_us.html:259
+#: .\pcdotapp\templates\about_us.html:385
+#: .\pcdotapp\templates\add_category.html:178
+#: .\pcdotapp\templates\add_desktop_image.html:178
+#: .\pcdotapp\templates\add_find_logo.html:179
+#: .\pcdotapp\templates\add_link.html:193
+#: .\pcdotapp\templates\add_mobile_image.html:179
+#: .\pcdotapp\templates\add_product.html:186
+#: .\pcdotapp\templates\add_product_type.html:181
+#: .\pcdotapp\templates\add_video.html:178 .\pcdotapp\templates\admin.html:211
+#: .\pcdotapp\templates\admin.html:399
+#: .\pcdotapp\templates\admin_manage_orders.html:190
+#: .\pcdotapp\templates\cart.html:223 .\pcdotapp\templates\cart.html:413
+#: .\pcdotapp\templates\category_page.html:311
+#: .\pcdotapp\templates\category_page.html:557
+#: .\pcdotapp\templates\checkout_page.html:222
+#: .\pcdotapp\templates\checkout_page.html:406
+#: .\pcdotapp\templates\edit_desktop_image.html:179
+#: .\pcdotapp\templates\edit_find_logo.html:178
+#: .\pcdotapp\templates\edit_link.html:191
+#: .\pcdotapp\templates\edit_mobile_image.html:180
+#: .\pcdotapp\templates\edit_product.html:177
+#: .\pcdotapp\templates\edit_product_type.html:177
+#: .\pcdotapp\templates\edit_video.html:181 .\pcdotapp\templates\index.html:485
+#: .\pcdotapp\templates\index.html:827 .\pcdotapp\templates\login.html:200
+#: .\pcdotapp\templates\order_page.html:216
+#: .\pcdotapp\templates\payment_failed.html:193
+#: .\pcdotapp\templates\payment_gateway.html:184
+#: .\pcdotapp\templates\payment_sucess.html:201
+#: .\pcdotapp\templates\product_pages.html:424
+#: .\pcdotapp\templates\product_pages.html:633
+#: .\pcdotapp\templates\product_type_page.html:360
+#: .\pcdotapp\templates\product_type_page.html:605
+#: .\pcdotapp\templates\products.html:368
+#: .\pcdotapp\templates\products.html:612
+#: .\pcdotapp\templates\search_results.html:304
+#: .\pcdotapp\templates\setpassword.html:196
+#: .\pcdotapp\templates\sign_in.html:197
+#: .\pcdotapp\templates\warranty_list.html:247
+#: .\pcdotapp\templates\wish_list.html:266
+#: .\pcdotapp\templates\wish_list.html:408
+msgid "About Us"
+msgstr "معلومات عنا"
+
+#: .\pcdotapp\templates\about_us.html:154
+#: .\pcdotapp\templates\add_category.html:116
+#: .\pcdotapp\templates\add_desktop_image.html:116
+#: .\pcdotapp\templates\add_find_logo.html:117
+#: .\pcdotapp\templates\add_link.html:118
+#: .\pcdotapp\templates\add_mobile_image.html:117
+#: .\pcdotapp\templates\add_product.html:124
+#: .\pcdotapp\templates\add_product_type.html:119
+#: .\pcdotapp\templates\add_video.html:116 .\pcdotapp\templates\admin.html:141
+#: .\pcdotapp\templates\admin_manage_orders.html:128
+#: .\pcdotapp\templates\cart.html:153
+#: .\pcdotapp\templates\category_page.html:241
+#: .\pcdotapp\templates\checkout_page.html:152
+#: .\pcdotapp\templates\edit_desktop_image.html:117
+#: .\pcdotapp\templates\edit_find_logo.html:116
+#: .\pcdotapp\templates\edit_link.html:116
+#: .\pcdotapp\templates\edit_mobile_image.html:118
+#: .\pcdotapp\templates\edit_product.html:115
+#: .\pcdotapp\templates\edit_product_type.html:115
+#: .\pcdotapp\templates\edit_video.html:119 .\pcdotapp\templates\index.html:410
+#: .\pcdotapp\templates\login.html:130 .\pcdotapp\templates\order_page.html:155
+#: .\pcdotapp\templates\payment_failed.html:131
+#: .\pcdotapp\templates\payment_gateway.html:123
+#: .\pcdotapp\templates\payment_sucess.html:140
+#: .\pcdotapp\templates\product_pages.html:354
+#: .\pcdotapp\templates\product_type_page.html:290
+#: .\pcdotapp\templates\products.html:298
+#: .\pcdotapp\templates\search_results.html:243
+#: .\pcdotapp\templates\setpassword.html:126
+#: .\pcdotapp\templates\sign_in.html:127
+#: .\pcdotapp\templates\warranty_list.html:172
+#: .\pcdotapp\templates\wish_list.html:196
+msgid "Search your product"
+msgstr "ابحث عن منتجك"
+
+#: .\pcdotapp\templates\about_us.html:165
+#: .\pcdotapp\templates\add_category.html:127
+#: .\pcdotapp\templates\add_desktop_image.html:127
+#: .\pcdotapp\templates\add_find_logo.html:128
+#: .\pcdotapp\templates\add_link.html:129
+#: .\pcdotapp\templates\add_mobile_image.html:128
+#: .\pcdotapp\templates\add_product.html:135
+#: .\pcdotapp\templates\add_product_type.html:130
+#: .\pcdotapp\templates\add_video.html:127 .\pcdotapp\templates\admin.html:152
+#: .\pcdotapp\templates\admin_manage_orders.html:139
+#: .\pcdotapp\templates\cart.html:164
+#: .\pcdotapp\templates\category_page.html:252
+#: .\pcdotapp\templates\checkout_page.html:163
+#: .\pcdotapp\templates\edit_desktop_image.html:128
+#: .\pcdotapp\templates\edit_find_logo.html:127
+#: .\pcdotapp\templates\edit_link.html:127
+#: .\pcdotapp\templates\edit_mobile_image.html:129
+#: .\pcdotapp\templates\edit_product.html:126
+#: .\pcdotapp\templates\edit_product_type.html:126
+#: .\pcdotapp\templates\edit_video.html:130 .\pcdotapp\templates\index.html:421
+#: .\pcdotapp\templates\login.html:141 .\pcdotapp\templates\order_page.html:166
+#: .\pcdotapp\templates\payment_failed.html:142
+#: .\pcdotapp\templates\payment_gateway.html:134
+#: .\pcdotapp\templates\payment_sucess.html:151
+#: .\pcdotapp\templates\product_pages.html:365
+#: .\pcdotapp\templates\product_type_page.html:301
+#: .\pcdotapp\templates\products.html:309
+#: .\pcdotapp\templates\search_results.html:254
+#: .\pcdotapp\templates\setpassword.html:137
+#: .\pcdotapp\templates\sign_in.html:138
+#: .\pcdotapp\templates\warranty_list.html:183
+#: .\pcdotapp\templates\wish_list.html:207
+msgid "Cart"
+msgstr "عربة التسوق"
+
+#: .\pcdotapp\templates\about_us.html:170
+#: .\pcdotapp\templates\add_category.html:132
+#: .\pcdotapp\templates\add_desktop_image.html:132
+#: .\pcdotapp\templates\add_find_logo.html:133
+#: .\pcdotapp\templates\add_link.html:134
+#: .\pcdotapp\templates\add_mobile_image.html:133
+#: .\pcdotapp\templates\add_product.html:140
+#: .\pcdotapp\templates\add_product_type.html:135
+#: .\pcdotapp\templates\add_video.html:132 .\pcdotapp\templates\admin.html:157
+#: .\pcdotapp\templates\admin_manage_orders.html:144
+#: .\pcdotapp\templates\cart.html:169
+#: .\pcdotapp\templates\category_page.html:257
+#: .\pcdotapp\templates\checkout_page.html:168
+#: .\pcdotapp\templates\edit_desktop_image.html:133
+#: .\pcdotapp\templates\edit_find_logo.html:132
+#: .\pcdotapp\templates\edit_link.html:132
+#: .\pcdotapp\templates\edit_mobile_image.html:134
+#: .\pcdotapp\templates\edit_product.html:131
+#: .\pcdotapp\templates\edit_product_type.html:131
+#: .\pcdotapp\templates\edit_video.html:135 .\pcdotapp\templates\index.html:426
+#: .\pcdotapp\templates\login.html:146 .\pcdotapp\templates\order_page.html:171
+#: .\pcdotapp\templates\payment_failed.html:147
+#: .\pcdotapp\templates\payment_gateway.html:139
+#: .\pcdotapp\templates\payment_sucess.html:156
+#: .\pcdotapp\templates\product_pages.html:370
+#: .\pcdotapp\templates\product_type_page.html:306
+#: .\pcdotapp\templates\products.html:314
+#: .\pcdotapp\templates\search_results.html:259
+#: .\pcdotapp\templates\setpassword.html:142
+#: .\pcdotapp\templates\sign_in.html:143
+#: .\pcdotapp\templates\warranty_list.html:188
+#: .\pcdotapp\templates\wish_list.html:212
+msgid "Wishlist"
+msgstr "قائمة الرغبات"
+
+#: .\pcdotapp\templates\about_us.html:179
+#: .\pcdotapp\templates\add_category.html:141
+#: .\pcdotapp\templates\add_desktop_image.html:141
+#: .\pcdotapp\templates\add_find_logo.html:142
+#: .\pcdotapp\templates\add_link.html:143
+#: .\pcdotapp\templates\add_mobile_image.html:142
+#: .\pcdotapp\templates\add_product.html:149
+#: .\pcdotapp\templates\add_product_type.html:144
+#: .\pcdotapp\templates\add_video.html:141 .\pcdotapp\templates\admin.html:165
+#: .\pcdotapp\templates\admin_manage_orders.html:153
+#: .\pcdotapp\templates\cart.html:177
+#: .\pcdotapp\templates\category_page.html:265
+#: .\pcdotapp\templates\checkout_page.html:176
+#: .\pcdotapp\templates\edit_desktop_image.html:142
+#: .\pcdotapp\templates\edit_find_logo.html:141
+#: .\pcdotapp\templates\edit_link.html:141
+#: .\pcdotapp\templates\edit_mobile_image.html:143
+#: .\pcdotapp\templates\edit_product.html:140
+#: .\pcdotapp\templates\edit_product_type.html:140
+#: .\pcdotapp\templates\edit_video.html:144 .\pcdotapp\templates\index.html:435
+#: .\pcdotapp\templates\login.html:154 .\pcdotapp\templates\order_page.html:179
+#: .\pcdotapp\templates\payment_failed.html:156
+#: .\pcdotapp\templates\payment_gateway.html:147
+#: .\pcdotapp\templates\payment_sucess.html:164
+#: .\pcdotapp\templates\product_pages.html:378
+#: .\pcdotapp\templates\product_type_page.html:314
+#: .\pcdotapp\templates\products.html:322
+#: .\pcdotapp\templates\search_results.html:267
+#: .\pcdotapp\templates\setpassword.html:150
+#: .\pcdotapp\templates\sign_in.html:151
+#: .\pcdotapp\templates\warranty_list.html:197
+#: .\pcdotapp\templates\wish_list.html:220
+msgid "My Orders"
+msgstr "طلباتي"
+
+#: .\pcdotapp\templates\about_us.html:180
+#: .\pcdotapp\templates\add_category.html:142
+#: .\pcdotapp\templates\add_desktop_image.html:142
+#: .\pcdotapp\templates\add_find_logo.html:143
+#: .\pcdotapp\templates\add_link.html:144
+#: .\pcdotapp\templates\add_mobile_image.html:143
+#: .\pcdotapp\templates\add_product.html:150
+#: .\pcdotapp\templates\add_product_type.html:145
+#: .\pcdotapp\templates\add_video.html:142 .\pcdotapp\templates\admin.html:166
+#: .\pcdotapp\templates\admin_manage_orders.html:154
+#: .\pcdotapp\templates\cart.html:178
+#: .\pcdotapp\templates\category_page.html:266
+#: .\pcdotapp\templates\checkout_page.html:177
+#: .\pcdotapp\templates\edit_desktop_image.html:143
+#: .\pcdotapp\templates\edit_find_logo.html:142
+#: .\pcdotapp\templates\edit_link.html:142
+#: .\pcdotapp\templates\edit_mobile_image.html:144
+#: .\pcdotapp\templates\edit_product.html:141
+#: .\pcdotapp\templates\edit_product_type.html:141
+#: .\pcdotapp\templates\edit_video.html:145 .\pcdotapp\templates\index.html:436
+#: .\pcdotapp\templates\login.html:155 .\pcdotapp\templates\order_page.html:180
+#: .\pcdotapp\templates\payment_failed.html:157
+#: .\pcdotapp\templates\payment_gateway.html:148
+#: .\pcdotapp\templates\payment_sucess.html:165
+#: .\pcdotapp\templates\product_pages.html:379
+#: .\pcdotapp\templates\product_type_page.html:315
+#: .\pcdotapp\templates\products.html:323
+#: .\pcdotapp\templates\search_results.html:268
+#: .\pcdotapp\templates\setpassword.html:151
+#: .\pcdotapp\templates\sign_in.html:152
+#: .\pcdotapp\templates\warranty_list.html:198
+#: .\pcdotapp\templates\wish_list.html:221
+msgid "My Wishlist"
+msgstr "قائمة رغباتي"
+
+#: .\pcdotapp\templates\about_us.html:181
+#: .\pcdotapp\templates\add_category.html:143
+#: .\pcdotapp\templates\add_desktop_image.html:143
+#: .\pcdotapp\templates\add_find_logo.html:144
+#: .\pcdotapp\templates\add_link.html:145
+#: .\pcdotapp\templates\add_mobile_image.html:144
+#: .\pcdotapp\templates\add_product.html:151
+#: .\pcdotapp\templates\add_product_type.html:146
+#: .\pcdotapp\templates\add_video.html:143 .\pcdotapp\templates\admin.html:167
+#: .\pcdotapp\templates\admin_manage_orders.html:155
+#: .\pcdotapp\templates\cart.html:179
+#: .\pcdotapp\templates\category_page.html:267
+#: .\pcdotapp\templates\checkout_page.html:178
+#: .\pcdotapp\templates\edit_desktop_image.html:144
+#: .\pcdotapp\templates\edit_find_logo.html:143
+#: .\pcdotapp\templates\edit_link.html:143
+#: .\pcdotapp\templates\edit_mobile_image.html:145
+#: .\pcdotapp\templates\edit_product.html:142
+#: .\pcdotapp\templates\edit_product_type.html:142
+#: .\pcdotapp\templates\edit_video.html:146 .\pcdotapp\templates\index.html:437
+#: .\pcdotapp\templates\login.html:156 .\pcdotapp\templates\order_page.html:181
+#: .\pcdotapp\templates\payment_failed.html:158
+#: .\pcdotapp\templates\payment_gateway.html:149
+#: .\pcdotapp\templates\payment_sucess.html:166
+#: .\pcdotapp\templates\product_pages.html:380
+#: .\pcdotapp\templates\product_type_page.html:316
+#: .\pcdotapp\templates\products.html:324
+#: .\pcdotapp\templates\search_results.html:269
+#: .\pcdotapp\templates\setpassword.html:152
+#: .\pcdotapp\templates\sign_in.html:153
+#: .\pcdotapp\templates\warranty_list.html:199
+#: .\pcdotapp\templates\wish_list.html:222
+msgid "My Cart"
+msgstr "عربتي"
+
+#: .\pcdotapp\templates\about_us.html:183
+#: .\pcdotapp\templates\add_category.html:144
+#: .\pcdotapp\templates\add_desktop_image.html:144
+#: .\pcdotapp\templates\add_find_logo.html:145
+#: .\pcdotapp\templates\add_link.html:147
+#: .\pcdotapp\templates\add_mobile_image.html:145
+#: .\pcdotapp\templates\add_product.html:152
+#: .\pcdotapp\templates\add_product_type.html:147
+#: .\pcdotapp\templates\add_video.html:144 .\pcdotapp\templates\admin.html:168
+#: .\pcdotapp\templates\admin_manage_orders.html:156
+#: .\pcdotapp\templates\cart.html:180
+#: .\pcdotapp\templates\category_page.html:268
+#: .\pcdotapp\templates\checkout_page.html:179
+#: .\pcdotapp\templates\edit_desktop_image.html:145
+#: .\pcdotapp\templates\edit_find_logo.html:144
+#: .\pcdotapp\templates\edit_link.html:145
+#: .\pcdotapp\templates\edit_mobile_image.html:146
+#: .\pcdotapp\templates\edit_product.html:143
+#: .\pcdotapp\templates\edit_product_type.html:143
+#: .\pcdotapp\templates\edit_video.html:147 .\pcdotapp\templates\index.html:439
+#: .\pcdotapp\templates\login.html:157 .\pcdotapp\templates\order_page.html:182
+#: .\pcdotapp\templates\payment_failed.html:159
+#: .\pcdotapp\templates\payment_gateway.html:150
+#: .\pcdotapp\templates\payment_sucess.html:167
+#: .\pcdotapp\templates\product_pages.html:381
+#: .\pcdotapp\templates\product_type_page.html:317
+#: .\pcdotapp\templates\products.html:325
+#: .\pcdotapp\templates\search_results.html:270
+#: .\pcdotapp\templates\setpassword.html:153
+#: .\pcdotapp\templates\sign_in.html:154
+#: .\pcdotapp\templates\warranty_list.html:201
+#: .\pcdotapp\templates\wish_list.html:223
+msgid "Logout"
+msgstr "تسجيل الخروج"
+
+#: .\pcdotapp\templates\about_us.html:185
+#: .\pcdotapp\templates\add_link.html:149
+#: .\pcdotapp\templates\edit_link.html:147 .\pcdotapp\templates\index.html:441
+#: .\pcdotapp\templates\login.html:231 .\pcdotapp\templates\sign_in.html:268
+#: .\pcdotapp\templates\warranty_list.html:203
+msgid "Login"
+msgstr ""
+
+#: .\pcdotapp\templates\about_us.html:192
+#: .\pcdotapp\templates\about_us.html:199
+#: .\pcdotapp\templates\about_us.html:203
+#: .\pcdotapp\templates\add_category.html:153
+#: .\pcdotapp\templates\add_desktop_image.html:153
+#: .\pcdotapp\templates\add_find_logo.html:154
+#: .\pcdotapp\templates\add_link.html:156
+#: .\pcdotapp\templates\add_link.html:163
+#: .\pcdotapp\templates\add_link.html:167
+#: .\pcdotapp\templates\add_mobile_image.html:154
+#: .\pcdotapp\templates\add_product.html:161
+#: .\pcdotapp\templates\add_product_type.html:156
+#: .\pcdotapp\templates\add_video.html:153 .\pcdotapp\templates\admin.html:174
+#: .\pcdotapp\templates\admin.html:181 .\pcdotapp\templates\admin.html:185
+#: .\pcdotapp\templates\admin_manage_orders.html:165
+#: .\pcdotapp\templates\cart.html:186 .\pcdotapp\templates\cart.html:193
+#: .\pcdotapp\templates\cart.html:197
+#: .\pcdotapp\templates\category_page.html:274
+#: .\pcdotapp\templates\category_page.html:281
+#: .\pcdotapp\templates\category_page.html:285
+#: .\pcdotapp\templates\checkout_page.html:185
+#: .\pcdotapp\templates\checkout_page.html:192
+#: .\pcdotapp\templates\checkout_page.html:196
+#: .\pcdotapp\templates\edit_desktop_image.html:154
+#: .\pcdotapp\templates\edit_find_logo.html:153
+#: .\pcdotapp\templates\edit_link.html:154
+#: .\pcdotapp\templates\edit_link.html:161
+#: .\pcdotapp\templates\edit_link.html:165
+#: .\pcdotapp\templates\edit_mobile_image.html:155
+#: .\pcdotapp\templates\edit_product.html:152
+#: .\pcdotapp\templates\edit_product_type.html:152
+#: .\pcdotapp\templates\edit_video.html:156 .\pcdotapp\templates\index.html:448
+#: .\pcdotapp\templates\index.html:455 .\pcdotapp\templates\index.html:459
+#: .\pcdotapp\templates\login.html:163 .\pcdotapp\templates\login.html:170
+#: .\pcdotapp\templates\login.html:174 .\pcdotapp\templates\order_page.html:191
+#: .\pcdotapp\templates\payment_failed.html:168
+#: .\pcdotapp\templates\payment_gateway.html:159
+#: .\pcdotapp\templates\payment_sucess.html:176
+#: .\pcdotapp\templates\product_pages.html:387
+#: .\pcdotapp\templates\product_pages.html:394
+#: .\pcdotapp\templates\product_pages.html:398
+#: .\pcdotapp\templates\product_type_page.html:323
+#: .\pcdotapp\templates\product_type_page.html:330
+#: .\pcdotapp\templates\product_type_page.html:334
+#: .\pcdotapp\templates\products.html:331
+#: .\pcdotapp\templates\products.html:338
+#: .\pcdotapp\templates\products.html:342
+#: .\pcdotapp\templates\search_results.html:279
+#: .\pcdotapp\templates\setpassword.html:159
+#: .\pcdotapp\templates\setpassword.html:166
+#: .\pcdotapp\templates\setpassword.html:170
+#: .\pcdotapp\templates\sign_in.html:160 .\pcdotapp\templates\sign_in.html:167
+#: .\pcdotapp\templates\sign_in.html:171
+#: .\pcdotapp\templates\warranty_list.html:210
+#: .\pcdotapp\templates\warranty_list.html:217
+#: .\pcdotapp\templates\warranty_list.html:221
+#: .\pcdotapp\templates\wish_list.html:229
+#: .\pcdotapp\templates\wish_list.html:236
+#: .\pcdotapp\templates\wish_list.html:240
+msgid "Arabic"
+msgstr "العربية"
+
+#: .\pcdotapp\templates\about_us.html:194
+#: .\pcdotapp\templates\about_us.html:200
+#: .\pcdotapp\templates\about_us.html:202
+#: .\pcdotapp\templates\add_category.html:149
+#: .\pcdotapp\templates\add_category.html:152
+#: .\pcdotapp\templates\add_desktop_image.html:149
+#: .\pcdotapp\templates\add_desktop_image.html:152
+#: .\pcdotapp\templates\add_find_logo.html:150
+#: .\pcdotapp\templates\add_find_logo.html:153
+#: .\pcdotapp\templates\add_link.html:158
+#: .\pcdotapp\templates\add_link.html:164
+#: .\pcdotapp\templates\add_link.html:166
+#: .\pcdotapp\templates\add_mobile_image.html:150
+#: .\pcdotapp\templates\add_mobile_image.html:153
+#: .\pcdotapp\templates\add_product.html:157
+#: .\pcdotapp\templates\add_product.html:160
+#: .\pcdotapp\templates\add_product_type.html:152
+#: .\pcdotapp\templates\add_product_type.html:155
+#: .\pcdotapp\templates\add_video.html:149
+#: .\pcdotapp\templates\add_video.html:152 .\pcdotapp\templates\admin.html:176
+#: .\pcdotapp\templates\admin.html:182 .\pcdotapp\templates\admin.html:184
+#: .\pcdotapp\templates\admin_manage_orders.html:161
+#: .\pcdotapp\templates\admin_manage_orders.html:164
+#: .\pcdotapp\templates\cart.html:188 .\pcdotapp\templates\cart.html:194
+#: .\pcdotapp\templates\cart.html:196
+#: .\pcdotapp\templates\category_page.html:276
+#: .\pcdotapp\templates\category_page.html:282
+#: .\pcdotapp\templates\category_page.html:284
+#: .\pcdotapp\templates\checkout_page.html:187
+#: .\pcdotapp\templates\checkout_page.html:193
+#: .\pcdotapp\templates\checkout_page.html:195
+#: .\pcdotapp\templates\edit_desktop_image.html:150
+#: .\pcdotapp\templates\edit_desktop_image.html:153
+#: .\pcdotapp\templates\edit_find_logo.html:149
+#: .\pcdotapp\templates\edit_find_logo.html:152
+#: .\pcdotapp\templates\edit_link.html:156
+#: .\pcdotapp\templates\edit_link.html:162
+#: .\pcdotapp\templates\edit_link.html:164
+#: .\pcdotapp\templates\edit_mobile_image.html:151
+#: .\pcdotapp\templates\edit_mobile_image.html:154
+#: .\pcdotapp\templates\edit_product.html:148
+#: .\pcdotapp\templates\edit_product.html:151
+#: .\pcdotapp\templates\edit_product_type.html:148
+#: .\pcdotapp\templates\edit_product_type.html:151
+#: .\pcdotapp\templates\edit_video.html:152
+#: .\pcdotapp\templates\edit_video.html:155 .\pcdotapp\templates\index.html:450
+#: .\pcdotapp\templates\index.html:456 .\pcdotapp\templates\index.html:458
+#: .\pcdotapp\templates\login.html:165 .\pcdotapp\templates\login.html:171
+#: .\pcdotapp\templates\login.html:173 .\pcdotapp\templates\order_page.html:187
+#: .\pcdotapp\templates\order_page.html:190
+#: .\pcdotapp\templates\payment_failed.html:164
+#: .\pcdotapp\templates\payment_failed.html:167
+#: .\pcdotapp\templates\payment_gateway.html:155
+#: .\pcdotapp\templates\payment_gateway.html:158
+#: .\pcdotapp\templates\payment_sucess.html:172
+#: .\pcdotapp\templates\payment_sucess.html:175
+#: .\pcdotapp\templates\product_pages.html:389
+#: .\pcdotapp\templates\product_pages.html:395
+#: .\pcdotapp\templates\product_pages.html:397
+#: .\pcdotapp\templates\product_type_page.html:325
+#: .\pcdotapp\templates\product_type_page.html:331
+#: .\pcdotapp\templates\product_type_page.html:333
+#: .\pcdotapp\templates\products.html:333
+#: .\pcdotapp\templates\products.html:339
+#: .\pcdotapp\templates\products.html:341
+#: .\pcdotapp\templates\search_results.html:275
+#: .\pcdotapp\templates\search_results.html:278
+#: .\pcdotapp\templates\setpassword.html:161
+#: .\pcdotapp\templates\setpassword.html:167
+#: .\pcdotapp\templates\setpassword.html:169
+#: .\pcdotapp\templates\sign_in.html:162 .\pcdotapp\templates\sign_in.html:168
+#: .\pcdotapp\templates\sign_in.html:170
+#: .\pcdotapp\templates\warranty_list.html:212
+#: .\pcdotapp\templates\warranty_list.html:218
+#: .\pcdotapp\templates\warranty_list.html:220
+#: .\pcdotapp\templates\wish_list.html:231
+#: .\pcdotapp\templates\wish_list.html:237
+#: .\pcdotapp\templates\wish_list.html:239
+msgid "English"
+msgstr "الإنجليزية"
+
+#: .\pcdotapp\templates\about_us.html:223
+#: .\pcdotapp\templates\about_us.html:382
+#: .\pcdotapp\templates\add_category.html:172
+#: .\pcdotapp\templates\add_desktop_image.html:172
+#: .\pcdotapp\templates\add_find_logo.html:173
+#: .\pcdotapp\templates\add_link.html:187
+#: .\pcdotapp\templates\add_mobile_image.html:173
+#: .\pcdotapp\templates\add_product.html:180
+#: .\pcdotapp\templates\add_product_type.html:175
+#: .\pcdotapp\templates\add_video.html:172 .\pcdotapp\templates\admin.html:205
+#: .\pcdotapp\templates\admin.html:396
+#: .\pcdotapp\templates\admin_manage_orders.html:184
+#: .\pcdotapp\templates\cart.html:217 .\pcdotapp\templates\cart.html:410
+#: .\pcdotapp\templates\category_page.html:305
+#: .\pcdotapp\templates\category_page.html:554
+#: .\pcdotapp\templates\checkout_page.html:216
+#: .\pcdotapp\templates\checkout_page.html:403
+#: .\pcdotapp\templates\edit_desktop_image.html:173
+#: .\pcdotapp\templates\edit_find_logo.html:172
+#: .\pcdotapp\templates\edit_link.html:185
+#: .\pcdotapp\templates\edit_mobile_image.html:174
+#: .\pcdotapp\templates\edit_product.html:171
+#: .\pcdotapp\templates\edit_product_type.html:171
+#: .\pcdotapp\templates\edit_video.html:175 .\pcdotapp\templates\index.html:479
+#: .\pcdotapp\templates\index.html:824 .\pcdotapp\templates\login.html:194
+#: .\pcdotapp\templates\order_page.html:210
+#: .\pcdotapp\templates\payment_failed.html:187
+#: .\pcdotapp\templates\payment_gateway.html:178
+#: .\pcdotapp\templates\payment_sucess.html:195
+#: .\pcdotapp\templates\product_pages.html:418
+#: .\pcdotapp\templates\product_pages.html:630
+#: .\pcdotapp\templates\product_type_page.html:354
+#: .\pcdotapp\templates\product_type_page.html:602
+#: .\pcdotapp\templates\products.html:362
+#: .\pcdotapp\templates\products.html:609
+#: .\pcdotapp\templates\search_results.html:298
+#: .\pcdotapp\templates\setpassword.html:190
+#: .\pcdotapp\templates\sign_in.html:191
+#: .\pcdotapp\templates\warranty_list.html:241
+#: .\pcdotapp\templates\wish_list.html:260
+#: .\pcdotapp\templates\wish_list.html:405
+msgid "Home"
+msgstr "الرئيسية"
+
+#: .\pcdotapp\templates\about_us.html:226
+#: .\pcdotapp\templates\about_us.html:362
+#: .\pcdotapp\templates\about_us.html:388
+#: .\pcdotapp\templates\add_category.html:175
+#: .\pcdotapp\templates\add_category.html:307
+#: .\pcdotapp\templates\add_desktop_image.html:175
+#: .\pcdotapp\templates\add_find_logo.html:176
+#: .\pcdotapp\templates\add_find_logo.html:321
+#: .\pcdotapp\templates\add_link.html:190
+#: .\pcdotapp\templates\add_mobile_image.html:176
+#: .\pcdotapp\templates\add_product.html:183
+#: .\pcdotapp\templates\add_product.html:365
+#: .\pcdotapp\templates\add_product_type.html:178
+#: .\pcdotapp\templates\add_product_type.html:302
+#: .\pcdotapp\templates\add_video.html:175
+#: .\pcdotapp\templates\add_video.html:311 .\pcdotapp\templates\admin.html:208
+#: .\pcdotapp\templates\admin.html:376 .\pcdotapp\templates\admin.html:402
+#: .\pcdotapp\templates\admin_manage_orders.html:187
+#: .\pcdotapp\templates\cart.html:220 .\pcdotapp\templates\cart.html:262
+#: .\pcdotapp\templates\cart.html:390 .\pcdotapp\templates\cart.html:416
+#: .\pcdotapp\templates\category_page.html:308
+#: .\pcdotapp\templates\category_page.html:534
+#: .\pcdotapp\templates\category_page.html:560
+#: .\pcdotapp\templates\checkout_page.html:219
+#: .\pcdotapp\templates\checkout_page.html:383
+#: .\pcdotapp\templates\checkout_page.html:409
+#: .\pcdotapp\templates\edit_desktop_image.html:176
+#: .\pcdotapp\templates\edit_find_logo.html:175
+#: .\pcdotapp\templates\edit_find_logo.html:301
+#: .\pcdotapp\templates\edit_link.html:188
+#: .\pcdotapp\templates\edit_mobile_image.html:177
+#: .\pcdotapp\templates\edit_product.html:174
+#: .\pcdotapp\templates\edit_product.html:316
+#: .\pcdotapp\templates\edit_product_type.html:174
+#: .\pcdotapp\templates\edit_product_type.html:270
+#: .\pcdotapp\templates\edit_video.html:178
+#: .\pcdotapp\templates\edit_video.html:296 .\pcdotapp\templates\index.html:482
+#: .\pcdotapp\templates\index.html:804 .\pcdotapp\templates\index.html:830
+#: .\pcdotapp\templates\login.html:197 .\pcdotapp\templates\login.html:314
+#: .\pcdotapp\templates\order_page.html:213
+#: .\pcdotapp\templates\payment_failed.html:190
+#: .\pcdotapp\templates\payment_gateway.html:181
+#: .\pcdotapp\templates\payment_sucess.html:198
+#: .\pcdotapp\templates\product_pages.html:421
+#: .\pcdotapp\templates\product_pages.html:610
+#: .\pcdotapp\templates\product_pages.html:636
+#: .\pcdotapp\templates\product_type_page.html:357
+#: .\pcdotapp\templates\product_type_page.html:582
+#: .\pcdotapp\templates\product_type_page.html:608
+#: .\pcdotapp\templates\products.html:9 .\pcdotapp\templates\products.html:365
+#: .\pcdotapp\templates\products.html:589
+#: .\pcdotapp\templates\products.html:615
+#: .\pcdotapp\templates\search_results.html:301
+#: .\pcdotapp\templates\search_results.html:436
+#: .\pcdotapp\templates\setpassword.html:193
+#: .\pcdotapp\templates\sign_in.html:194 .\pcdotapp\templates\sign_in.html:338
+#: .\pcdotapp\templates\warranty_list.html:244
+#: .\pcdotapp\templates\wish_list.html:263
+#: .\pcdotapp\templates\wish_list.html:385
+#: .\pcdotapp\templates\wish_list.html:411
+msgid "Products"
+msgstr "المنتجات"
+
+#: .\pcdotapp\templates\about_us.html:232
+#: .\pcdotapp\templates\add_link.html:196 .\pcdotapp\templates\cart.html:226
+#: .\pcdotapp\templates\category_page.html:314
+#: .\pcdotapp\templates\checkout_page.html:225
+#: .\pcdotapp\templates\edit_link.html:194 .\pcdotapp\templates\index.html:488
+#: .\pcdotapp\templates\login.html:203
+#: .\pcdotapp\templates\payment_failed.html:196
+#: .\pcdotapp\templates\payment_gateway.html:187
+#: .\pcdotapp\templates\payment_sucess.html:204
+#: .\pcdotapp\templates\product_pages.html:427
+#: .\pcdotapp\templates\product_type_page.html:363
+#: .\pcdotapp\templates\products.html:371
+#: .\pcdotapp\templates\search_results.html:307
+#: .\pcdotapp\templates\setpassword.html:199
+#: .\pcdotapp\templates\sign_in.html:200
+#: .\pcdotapp\templates\warranty_list.html:250
+#: .\pcdotapp\templates\wish_list.html:269
+msgid "Installment"
+msgstr "التقسيط"
+
+#: .\pcdotapp\templates\about_us.html:260
+msgid ""
+"We believe that customer satisfaction is our first requirement and can only "
+"come through:"
+msgstr "نعتقد أن رضا العملاء هو أول متطلباتنا ولا يمكن تحقيقه إلا من خلال:"
+
+#: .\pcdotapp\templates\about_us.html:261
+msgid "Good treatment"
+msgstr "معاملة جيدة"
+
+#: .\pcdotapp\templates\about_us.html:262
+msgid "Best price"
+msgstr "أفضل سعر"
+
+#: .\pcdotapp\templates\about_us.html:263
+msgid "Technical support"
+msgstr "الدعم الفني"
+
+#: .\pcdotapp\templates\about_us.html:264
+msgid "Customer confidence"
+msgstr "ثقة العملاء"
+
+#: .\pcdotapp\templates\about_us.html:265
+msgid "We are fully committed to all that. We strive to win your satisfaction."
+msgstr "نحن ملتزمون تمامًا بكل ذلك. نحن نسعى جاهدين لكسب رضاكم."
+
+#: .\pcdotapp\templates\about_us.html:266
+msgid ""
+"We always hear from you. Please feel free to send us your comments and "
+"suggestions."
+msgstr "نحن دائمًا نستمع إليك. لا تتردد في إرسال تعليقاتك واقتراحاتك."
+
+#: .\pcdotapp\templates\about_us.html:271
+msgid "Official Logo"
+msgstr "الشعار الرسمي"
+
+#: .\pcdotapp\templates\about_us.html:276
+msgid ""
+"Our top priority is ensuring customer satisfaction, which we achieve through "
+"excellent service, competitive pricing, reliable technical support, and "
+"earning your trust. We are dedicated to maintaining these standards and "
+"continually seek to improve. Your feedback is invaluable to us, and we "
+"encourage you to share your thoughts and suggestions with us."
+msgstr ""
+"أولويتنا القصوى هي ضمان رضا العملاء، وهو ما نحققه من خلال الخدمة الممتازة، "
+"الأسعار التنافسية، الدعم الفني الموثوق، وكسب ثقتكم. نحن ملتزمون بالحفاظ على "
+"هذه المعايير ونسعى باستمرار للتحسين. تعليقاتكم ذات قيمة كبيرة بالنسبة لنا، "
+"ونشجعكم على مشاركة آرائكم واقتراحاتكم معنا."
+
+#: .\pcdotapp\templates\about_us.html:282
+msgid "Our Shop"
+msgstr "متجرنا"
+
+#: .\pcdotapp\templates\about_us.html:354
+#: .\pcdotapp\templates\add_category.html:299
+#: .\pcdotapp\templates\add_find_logo.html:313
+#: .\pcdotapp\templates\add_product.html:357
+#: .\pcdotapp\templates\add_product_type.html:294
+#: .\pcdotapp\templates\add_video.html:303 .\pcdotapp\templates\admin.html:368
+#: .\pcdotapp\templates\cart.html:382
+#: .\pcdotapp\templates\category_page.html:523
+#: .\pcdotapp\templates\checkout_page.html:375
+#: .\pcdotapp\templates\index.html:793
+#: .\pcdotapp\templates\product_pages.html:602
+#: .\pcdotapp\templates\product_type_page.html:571
+#: .\pcdotapp\templates\products.html:578 .\pcdotapp\templates\sign_in.html:330
+#: .\pcdotapp\templates\wish_list.html:377
+msgid ""
+"Customer satisfaction is our priority, achieved through excellent service, "
+"fair pricing, and reliable support."
+msgstr ""
+"رضا العملاء هو أولويتنا، ويتم تحقيقه من خلال خدمة ممتازة، وتسعير عادل، ودعم "
+"موثوق."
+
+#: .\pcdotapp\templates\about_us.html:402 .\pcdotapp\templates\cart.html:430
+#: .\pcdotapp\templates\category_page.html:577
+#: .\pcdotapp\templates\checkout_page.html:423
+#: .\pcdotapp\templates\index.html:849 .\pcdotapp\templates\login.html:354
+#: .\pcdotapp\templates\product_pages.html:650
+#: .\pcdotapp\templates\product_type_page.html:625
+#: .\pcdotapp\templates\products.html:632
+#: .\pcdotapp\templates\search_results.html:476
+#: .\pcdotapp\templates\sign_in.html:378
+#: .\pcdotapp\templates\wish_list.html:425
+msgid "PCDOT computer, Khamis Mushait, Hossam Alkhalij Street."
+msgstr "بي سي دوت كمبيوتر - خميس مشيط - حي الربيع - شارع الخليج"
+
+#: .\pcdotapp\templates\add_category.html:137
+#: .\pcdotapp\templates\add_desktop_image.html:137
+#: .\pcdotapp\templates\add_find_logo.html:138
+#: .\pcdotapp\templates\add_mobile_image.html:138
+#: .\pcdotapp\templates\add_product.html:145
+#: .\pcdotapp\templates\add_product_type.html:140
+#: .\pcdotapp\templates\add_video.html:137
+#: .\pcdotapp\templates\admin_manage_orders.html:149
+#: .\pcdotapp\templates\edit_desktop_image.html:138
+#: .\pcdotapp\templates\edit_find_logo.html:137
+#: .\pcdotapp\templates\edit_mobile_image.html:139
+#: .\pcdotapp\templates\edit_product.html:136
+#: .\pcdotapp\templates\edit_product_type.html:136
+#: .\pcdotapp\templates\edit_video.html:140 .\pcdotapp\templates\login.html:151
+#: .\pcdotapp\templates\login.html:237 .\pcdotapp\templates\order_page.html:176
+#: .\pcdotapp\templates\payment_failed.html:152
+#: .\pcdotapp\templates\payment_gateway.html:144
+#: .\pcdotapp\templates\payment_sucess.html:161
+#: .\pcdotapp\templates\search_results.html:264
+#: .\pcdotapp\templates\setpassword.html:147
+#: .\pcdotapp\templates\sign_in.html:148 .\pcdotapp\templates\sign_in.html:242
+msgid "Username"
+msgstr "اسم المستخدم"
+
+#: .\pcdotapp\templates\add_category.html:140
+#: .\pcdotapp\templates\add_desktop_image.html:140
+#: .\pcdotapp\templates\add_find_logo.html:141
+#: .\pcdotapp\templates\add_mobile_image.html:141
+#: .\pcdotapp\templates\add_product.html:148
+#: .\pcdotapp\templates\add_product_type.html:143
+#: .\pcdotapp\templates\add_video.html:140
+#: .\pcdotapp\templates\admin_manage_orders.html:152
+#: .\pcdotapp\templates\edit_desktop_image.html:141
+#: .\pcdotapp\templates\edit_find_logo.html:140
+#: .\pcdotapp\templates\edit_mobile_image.html:142
+#: .\pcdotapp\templates\edit_product.html:139
+#: .\pcdotapp\templates\edit_product_type.html:139
+#: .\pcdotapp\templates\edit_video.html:143
+#: .\pcdotapp\templates\payment_failed.html:155
+msgid "Profile"
+msgstr ""
+
+#: .\pcdotapp\templates\admin.html:240
+#, fuzzy
+#| msgid "Products"
+msgid "Add Product Type"
+msgstr "إضافة نوع المنتج"
+
+#: .\pcdotapp\templates\admin.html:241 .\pcdotapp\templates\admin.html:250
+#: .\pcdotapp\templates\admin.html:259 .\pcdotapp\templates\admin.html:268
+#: .\pcdotapp\templates\admin.html:277 .\pcdotapp\templates\admin.html:286
+#: .\pcdotapp\templates\admin.html:295 .\pcdotapp\templates\admin.html:304
+#: .\pcdotapp\templates\admin.html:313
+msgid "GO"
+msgstr "اذهب"
+
+#: .\pcdotapp\templates\admin.html:249
+#, fuzzy
+#| msgid "Add To Cart"
+msgid "Add Category"
+msgstr "إضافة فئة"
+
+#: .\pcdotapp\templates\admin.html:258
+#, fuzzy
+#| msgid "Products"
+msgid "Add Product"
+msgstr "إضافة منتج"
+
+#: .\pcdotapp\templates\admin.html:267
+msgid "Add Video Reels"
+msgstr "إضافة مقاطع فيديو"
+
+#: .\pcdotapp\templates\admin.html:276
+msgid "Add Brand Logos"
+msgstr "إضافة شعارات العلامة التجارية"
+
+#: .\pcdotapp\templates\admin.html:285
+msgid "Add Desktop Carousel Images"
+msgstr "ضافة صور عرض شرائح سطح المكتب"
+
+#: .\pcdotapp\templates\admin.html:294
+msgid "Add Mobile Carousel Images"
+msgstr "إضافة صور عرض شرائح الهاتف المحمول"
+
+#: .\pcdotapp\templates\admin.html:303
+#, fuzzy
+#| msgid "My Orders"
+msgid "Orders"
+msgstr "الطلبات"
+
+#: .\pcdotapp\templates\admin.html:312
+msgid "Add Links"
+msgstr ""
+
+#: .\pcdotapp\templates\cart.html:263
+#: .\pcdotapp\templates\category_page.html:351
+#: .\pcdotapp\templates\product_type_page.html:400
+#: .\pcdotapp\templates\products.html:405
+msgid "Price"
+msgstr "السعر"
+
+#: .\pcdotapp\templates\cart.html:264
+msgid "Quantity"
+msgstr "الكمية"
+
+#: .\pcdotapp\templates\cart.html:265 .\pcdotapp\templates\cart.html:302
+#: .\pcdotapp\templates\checkout_page.html:305
+msgid "Subtotal"
+msgstr "الإجمالي الفرعي"
+
+#: .\pcdotapp\templates\cart.html:306
+#: .\pcdotapp\templates\checkout_page.html:309
+msgid "Shiping Charge"
+msgstr "تكلفة الشحن"
+
+#: .\pcdotapp\templates\cart.html:310
+#: .\pcdotapp\templates\checkout_page.html:314
+msgid "Total"
+msgstr "الإجمالي"
+
+#: .\pcdotapp\templates\cart.html:313
+msgid "Proceed to Checkout"
+msgstr "التوجه إلى الدفع"
+
+#: .\pcdotapp\templates\category_page.html:349
+#: .\pcdotapp\templates\product_type_page.html:398
+#: .\pcdotapp\templates\products.html:403
+msgid "Filter By"
+msgstr "التصفية حسب"
+
+#: .\pcdotapp\templates\category_page.html:354
+#: .\pcdotapp\templates\product_type_page.html:403
+#: .\pcdotapp\templates\products.html:408
+msgid "Low to High"
+msgstr "من الأقل إلى الأعلى"
+
+#: .\pcdotapp\templates\category_page.html:358
+#: .\pcdotapp\templates\product_type_page.html:407
+#: .\pcdotapp\templates\products.html:412
+msgid "High to Low"
+msgstr "من الأعلى إلى الأقل"
+
+#: .\pcdotapp\templates\category_page.html:361
+#: .\pcdotapp\templates\product_type_page.html:410
+#: .\pcdotapp\templates\products.html:415
+msgid "Alphabetical Order"
+msgstr "ترتيب أبجدي"
+
+#: .\pcdotapp\templates\category_page.html:364
+#: .\pcdotapp\templates\product_type_page.html:413
+#: .\pcdotapp\templates\products.html:418
+msgid "A to Z"
+msgstr "أ إلى ي"
+
+#: .\pcdotapp\templates\category_page.html:368
+#: .\pcdotapp\templates\product_type_page.html:417
+#: .\pcdotapp\templates\products.html:422
+msgid "Z to A"
+msgstr "ي إلى أ"
+
+#: .\pcdotapp\templates\category_page.html:397
+#: .\pcdotapp\templates\index.html:562 .\pcdotapp\templates\index.html:637
+#: .\pcdotapp\templates\index.html:677
+#: .\pcdotapp\templates\product_pages.html:485
+#: .\pcdotapp\templates\product_pages.html:535
+#: .\pcdotapp\templates\product_type_page.html:446
+#: .\pcdotapp\templates\products.html:451
+#: .\pcdotapp\templates\search_results.html:358
+msgid "Out of Stock"
+msgstr ""
+
+#: .\pcdotapp\templates\category_page.html:403
+#: .\pcdotapp\templates\index.html:568 .\pcdotapp\templates\index.html:643
+#: .\pcdotapp\templates\index.html:683
+#: .\pcdotapp\templates\product_pages.html:541
+#: .\pcdotapp\templates\product_type_page.html:452
+#: .\pcdotapp\templates\products.html:457
+#: .\pcdotapp\templates\search_results.html:364
+#: .\pcdotapp\templates\wish_list.html:311
+msgid "Add To Cart"
+msgstr "أضف إلى السلة"
+
+#: .\pcdotapp\templates\category_page.html:526
+#: .\pcdotapp\templates\index.html:796
+#: .\pcdotapp\templates\product_type_page.html:574
+#: .\pcdotapp\templates\products.html:581
+msgid "Pcdot Commercial Registry No:5864525743"
+msgstr "مؤسسة أحمد القرني للحاسب الالي: 5864525743 "
+
+#: .\pcdotapp\templates\category_page.html:563
+#: .\pcdotapp\templates\index.html:833
+#: .\pcdotapp\templates\product_type_page.html:611
+#: .\pcdotapp\templates\products.html:618
+#: .\pcdotapp\templates\warranty_list.html:277
+msgid "Warranty Policies"
+msgstr "سياسات الضمان"
+
+#: .\pcdotapp\templates\checkout_page.html:9
+#: .\pcdotapp\templates\checkout_page.html:255
+msgid "Checkout Page"
+msgstr "صفحة الدفع"
+
+#: .\pcdotapp\templates\checkout_page.html:260
+#: .\pcdotapp\templates\sign_in.html:234
+msgid "First Name"
+msgstr "الاسم الأول"
+
+#: .\pcdotapp\templates\checkout_page.html:264
+#: .\pcdotapp\templates\sign_in.html:238
+msgid "Last Name"
+msgstr "اسم العائلة"
+
+#: .\pcdotapp\templates\checkout_page.html:268
+msgid "Country"
+msgstr "البلد"
+
+#: .\pcdotapp\templates\checkout_page.html:272
+msgid "Address"
+msgstr "العنوان"
+
+#: .\pcdotapp\templates\checkout_page.html:276
+msgid "City"
+msgstr "المدينة"
+
+#: .\pcdotapp\templates\checkout_page.html:280
+#: .\pcdotapp\templates\sign_in.html:250
+msgid "Phone"
+msgstr "الهاتف"
+
+#: .\pcdotapp\templates\checkout_page.html:284
+#: .\pcdotapp\templates\sign_in.html:246
+msgid "Email"
+msgstr "البريد الإلكتروني"
+
+#: .\pcdotapp\templates\checkout_page.html:287
+msgid "Proceed to Payment"
+msgstr "التوجه إلى الدفع"
+
+#: .\pcdotapp\templates\checkout_page.html:294
+#, fuzzy
+#| msgid "My Orders"
+msgid "Your Order"
+msgstr "طلباتي"
+
+#: .\pcdotapp\templates\index.html:10
+msgid "PCDOT Computer"
+msgstr "بي سي دوت كمبيوتر"
+
+#: .\pcdotapp\templates\index.html:532
+msgid "Latest Products"
+msgstr "أحدث المنتجات"
+
+#: .\pcdotapp\templates\index.html:892
+msgid "Chat with us on WhatsApp"
+msgstr ""
+
+#: .\pcdotapp\templates\login.html:241 .\pcdotapp\templates\sign_in.html:254
+msgid "Password"
+msgstr "كلمة المرور"
+
+#: .\pcdotapp\templates\login.html:248
+msgid "Not have an account?"
+msgstr "ليس لديك حساب؟"
+
+#: .\pcdotapp\templates\login.html:248 .\pcdotapp\templates\sign_in.html:264
+msgid "Sign Up"
+msgstr "إنشاء حساب"
+
+#: .\pcdotapp\templates\login.html:304
+msgid ""
+"\n"
+"                    We believe that customer satisfaction is our first "
+"requirement and can only come through good treatment, best price, technical "
+"support, and customer confidence. We are fully committed to all that. We "
+"strive to win your satisfaction. We always hear from you. Please feel free "
+"to send us your comments and suggestions.\n"
+"                    "
+msgstr ""
+
+#: .\pcdotapp\templates\product_pages.html:497
+msgid "Add to Cart"
+msgstr "أضف إلى السلة"
+
+#: .\pcdotapp\templates\product_pages.html:499
+msgid "Buy Now"
+msgstr "اشتر الآن"
+
+#: .\pcdotapp\templates\product_pages.html:510
+msgid "Recommended Products"
+msgstr "المنتجات الموصى بها"
+
+#: .\pcdotapp\templates\products.html:396
+msgid "Our Products"
+msgstr "المنتجات"
+
+#: .\pcdotapp\templates\search_results.html:428
+#, fuzzy
+#| msgid ""
+#| "We believe that customer satisfaction is our first requirement and can "
+#| "only come through good treatment, best price, technical support, and "
+#| "customer confidence. We are fully committed to all that. We strive to win "
+#| "your satisfaction. We always hear from you. Please feel free to send us "
+#| "your comments and suggestions.\n"
+#| "                "
+msgid ""
+"We believe that customer satisfaction is our first requirement and can only "
+"come through good treatment, best price, technical support, and customer "
+"confidence. We are fully committed to all that. We strive to win your "
+"satisfaction. We always hear from you. Please feel free to send us your "
+"comments and suggestions."
+msgstr ""
+"نعتقد أن رضا العملاء هو مطلبنا الأول ولا يمكن تحقيقه إلا من خلال\n"
+"المعاملة الجيدة-\n"
+"أفضل الأسعار-\n"
+"الدعم الفني-\n"
+"ثقة العملاء-\n"
+"نحن ملتزمون تمامًا بكل ذلك .. نحن نسعى جاهدين للفوز برضاك-\n"
+"نحن دائما نسمع منك. لا تتردد في إرسال تعليقاتك ومقترحاتك"
+
+#: .\pcdotapp\templates\sign_in.html:228
+msgid "Create Account"
+msgstr "إنشاء حساب"
+
+#: .\pcdotapp\templates\sign_in.html:259
+#, fuzzy
+#| msgid "Password"
+msgid "ConfirmPassword"
+msgstr "كلمة المرور"
+
+#: .\pcdotapp\templates\sign_in.html:268
+#, fuzzy
+#| msgid "Not have an account?"
+msgid "Already have an account"
+msgstr "ليس لديك حساب؟"
+
+#: .\pcdotapp\templates\warranty_list.html:10
+#, fuzzy
+#| msgid "PCDOT Computer"
+msgid "PCDOT Computers"
+msgstr "بي سي دوت كمبيوتر"
+
+#: .\pcdotapp\templates\warranty_list.html:279
+msgid ""
+"The computer cannot be returned for any reason, and faulty parts will be "
+"replaced by the agent."
+msgstr ""
+"يمنع إرجاع الكمبيوتر لأي سبب من الأسباب ويتم استبدال القطع المتعطلة من قبل "
+"الوكيل."
+
+#: .\pcdotapp\templates\warranty_list.html:280
+msgid ""
+"Based on the instructions of the Ministry of Commerce, all parts under "
+"warranty are subject to the 'consumable value' policy."
+msgstr ""
+"بناءً على تعليمات وزارة التجارة، تخضع جميع القطع في الضمان لسياسة 'القيمة "
+"الاستهلاكية'."
+
+#: .\pcdotapp\templates\warranty_list.html:281
+msgid "The guarantor is the agent."
+msgstr "الضامن هو الوكيل."
+
+#: .\pcdotapp\templates\warranty_list.html:282
+msgid ""
+"Shipping to the agent inside or outside Saudi Arabia is at the customer's "
+"expense."
+msgstr "الشحن إلى الوكيل داخل أو خارج السعودية على حساب العميل."
+
+#: .\pcdotapp\templates\warranty_list.html:283
+msgid ""
+"The warranty period for most parts is two years for hardware manufacturing "
+"defects."
+msgstr "مدة الضمان على أكثر القطع سنتين على العيوب المصنعية للهاردوير."
+
+#: .\pcdotapp\templates\warranty_list.html:284
+msgid ""
+"If the serial number on the item’s packaging or the warranty sticker is "
+"removed, we will not be able to cover the repair costs. Please ensure that "
+"the serial number is not tampered with or removed. In such cases, we will "
+"not be able to serve you."
+msgstr ""
+"إذا تمت إزالة الرقم التسلسلي عن غلاف السلعة والستيكر الخاص بالضمان، لن "
+"نستطيع تغطية تكاليف الإصلاح. يرجى التأكد من عدم العبث بالرقم التسلسلي أو "
+"إزالته. في حالة حدوث ذلك، لن نستطيع خدمتك."
+
+#: .\pcdotapp\templates\warranty_list.html:285
+msgid ""
+"We cannot serve you if the original product packaging, especially the "
+"monitor box, is not available."
+msgstr ""
+"لا يمكننا خدمتك في حال عدم توفر الكراتين الأصلية للمنتج وخصوصاً كرتون الشاشة."
+
+#: .\pcdotapp\templates\warranty_list.html:286
+msgid ""
+"The warranty is for manufacturing defects only and does not cover other "
+"malfunctions such as breakages or damages resulting from misuse."
+msgstr ""
+"الضمان هو للعيوب المصنعية فقط ولا يشمل الأعطال الأخرى مثل الكسور أو الأضرار "
+"الناتجة عن سوء الاستخدام."
+
+#: .\pcdotapp\templates\warranty_list.html:287
+msgid ""
+"The warranty does not apply to any damages resulting from (using "
+"incompatible accessories with the item – not following the manufacturer’s "
+"instructions)."
+msgstr ""
+"لن ينطبق الضمان لأية أضرار ناجمة عن (استخدام اكسسوارات غير متوافقة مع السلعة "
+"– عدم اتباع تعليمات الجهة المصنعة)."
+
+#: .\pcdotapp\templates\warranty_list.html:288
+msgid ""
+"The warranty is void if the device’s box is opened without the approval of "
+"technical support."
+msgstr "يعتبر الضمان لاغياً في حال فتح صندوق الجهاز دون موافقة الدعم الفني."
+
+#: .\pcdotapp\templates\warranty_list.html:289
+msgid ""
+"The warranty is void if the product is used improperly, such as overclocking "
+"the processor or graphics card, overheating, or installing dangerous "
+"software."
+msgstr ""
+"يعتبر الضمان لاغياً في حال استخدام المنتج بطريقة غير صحيحة مثل كسر سرعة "
+"المعالج أو كرت الشاشة أو رفع الحرارة أو تحميل برامج خطرة."
+
+#: .\pcdotapp\templates\warranty_list.html:290
+msgid ""
+"We will inspect any part before sending it to the agent to ensure the "
+"problem is due to a manufacturing defect."
+msgstr ""
+"سنقوم بفحص أي قطعة قبل إرسالها للوكيل للتأكد أن المشكلة ناتجة عن خطأ في "
+"التصنيع."
+
+#: .\pcdotapp\templates\warranty_list.html:291
+msgid ""
+"Attempting to repair the product at any non-authorized service center by the "
+"agent will void the warranty."
+msgstr ""
+"محاولة صيانة المنتج عند أي مركز صيانة غير معتمد لدى الوكيل تلغي الضمان عن "
+"المنتج."
+
+#: .\pcdotapp\templates\warranty_list.html:292
+msgid ""
+"During the warranty period, you can repair the item each time it needs "
+"service."
+msgstr ""
+"خلال فترة الضمان، يمكنك صيانة السلعة في كل مرة تحتاج فيها سلعتك للصيانة."
+
+#: .\pcdotapp\templates\warranty_list.html:293
+msgid "No external warranty extension options are available."
+msgstr "لا يتوفر خيار تمديد ضمان من أي جهة خارجية."
+
+#: .\pcdotapp\templates\warranty_list.html:294
+msgid "The customer will pay all shipping costs in case of warranty."
+msgstr "العميل سوف يدفع كامل مصاريف الشحن في حالة الضمان."
+
+#: .\pcdotapp\templates\warranty_list.html:295
+msgid ""
+"If a problem appears in the device within 72 hours of receiving it, the "
+"store will bear the shipping costs to and from the customer."
+msgstr ""
+"إذا ظهرت مشكلة في الجهاز خلال 72 ساعة من استلامه، فإن المتجر يتحمل مصاريف "
+"الشحن من وإلى العميل."
+
+#: .\pcdotapp\templates\warranty_list.html:296
+msgid ""
+"The maximum maintenance period is 14 days from the date the agent receives "
+"the item, not from the date the store receives it."
+msgstr ""
+"أقصى مدة للصيانة هي 14 يومًا من تاريخ استلام الوكيل للسلعة وليس من تاريخ "
+"استلام المتجر لها."
+
+#: .\pcdotapp\templates\warranty_list.html:297
+msgid "The warranty does not cover data; the warranty only covers hardware."
+msgstr "لا يشمل الضمان البيانات؛ الضمان فقط يشمل الهاردوير."
+
+#: .\pcdotapp\templates\warranty_list.html:298
+msgid "Free gifts (such as accessories) have an operational warranty only."
+msgstr "ضمان الهدايا المجانية (مثل الإكسسوارات) ضمان تشغيلي فقط."
+
+#: .\pcdotapp\templates\warranty_list.html:299
+msgid ""
+"Products without an agent in Saudi Arabia require 40 to 60 days for "
+"maintenance and warranty."
+msgstr ""
+"المنتجات التي لا يوجد لها وكيل في السعودية تحتاج 40 إلى 60 يومًا للصيانة "
+"والضمان."
+
+#: .\pcdotapp\templates\warranty_list.html:300
+msgid ""
+"The customer bears the shipping costs for maintenance of products that do "
+"not have an agent in Saudi Arabia."
+msgstr ""
+"يتحمل العميل قيمة تكاليف الشحن في حال الصيانة للمنتجات التي لا يوجد لها وكيل "
+"بالسعودية."
+
+#: .\pcdotapp\templates\warranty_list.html:301
+msgid ""
+"Any product purchased from the store is non-returnable except in case of:"
+msgstr "أي منتج يتم شراؤه من المتجر غير قابل للإرجاع إلا في حال:"
+
+#: .\pcdotapp\templates\warranty_list.html:303
+msgid ""
+"A technical or manufacturing defect in the part, in which case it is "
+"referred to the warranty department for replacement or return after "
+"confirming the defect under the product warranty terms."
+msgstr ""
+"أن يكون هناك عطل فني أو مصنعي في القطعة، وفي هذه الحالة يتم تحويلها إلى قسم "
+"الضمان للاستبدال أو الإرجاع بعد تأكيد وجود الخلل ضمن شروط ضمان المنتج."
+
+#: .\pcdotapp\templates\warranty_list.html:305
+msgid ""
+"The use of cards in mining is considered illegal, and the card malfunction "
+"is classified as misuse."
+msgstr ""
+"يعتبر استخدام الكروت في التعدين غير مشروع ويصنف عطل الكرت كسوء استخدام."
+
+#: .\pcdotapp\templates\warranty_list.html:306
+msgid ""
+"Cancellation and return of the monitor order are prohibited if it has been "
+"shipped."
+msgstr "يمنع إلغاء الطلب وإرجاع الشاشة في حال تم شحنها."
+
+#: .\pcdotapp\templates\warranty_list.html:307
+msgid ""
+"Warranty for chairs and tables: These products are considered consumables, "
+"so the operational warranty is comprehensive during the first 72 hours (the "
+"customer inspects the item for any shortage or problem in the operation of "
+"the chair and has the right to replace the product immediately)."
+msgstr ""
+"ضمان الكراسي والطاولات: تعتبر هذه المنتجات استهلاكية، لذلك فإن ضمان التشغيل "
+"يكون ضمان شامل خلال أول 72 ساعة (يقوم العميل بتفقد القطعة إن كان فيها أي نقص "
+"أو مشكلة في عمل الكرسي ويحق له استبدال المنتج مباشرة)."
+
+#: .\pcdotapp\templates\wish_list.html:317
+msgid "Remove"
+msgstr "إزالة"
+
+#, fuzzy
+#~| msgid "Phone"
+#~ msgid "Phone No"
+#~ msgstr "الهاتف"
+
+#, fuzzy
+#~| msgid "Warranty Policies"
+#~ msgid "Warranty"
+#~ msgstr "سياسات الضمان"
+
+#, fuzzy
+#~| msgid ""
+#~| "Our top priority is ensuring customer satisfaction, which we achieve "
+#~| "through excellent service, competitive pricing, reliable technical "
+#~| "support, and earning your trust. We are dedicated to maintaining these "
+#~| "standards and continually seek to improve. Your feedback is invaluable "
+#~| "to us, and we encourage you to share your thoughts and suggestions with "
+#~| "us."
+#~ msgid ""
+#~ "We prioritize customer satisfaction as our top goal, achievable through "
+#~ "excellent service, competitive pricing, technical support, and "
+#~ "buildingcustomer trust. Our dedication to these values is unwavering. We "
+#~ "aim to earn your satisfaction and value your feedback. Please do not "
+#~ "hesitate to share your comments and suggestions with us."
+#~ msgstr ""
+#~ "نحن نضع رضا العملاء على رأس أولوياتنا، ويمكن تحقيق ذلك من خلال تقديم خدمة "
+#~ "ممتازة، وأسعار تنافسية، ودعم فني، وبناء ثقة العملاء. نحن ملتزمون تمامًا "
+#~ "بهذه القيم. نهدف إلى كسب رضاكم ونقدر ملاحظاتكم. لا تترددوا في مشاركة "
+#~ "تعليقاتكم واقتراحاتكم معنا."
